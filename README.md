@@ -45,7 +45,7 @@ It is likely that `git` is already installed on your system. To check if you hav
 git --version
 ```
 <p align='center'>
-<img src="https://learn.microsoft.com/nl-nl/windows/wsl/media/git-versions.gif" width='600x'>
+<img src="https://learn.microsoft.com/nl-nl/windows/wsl/media/git-versions.gif" style="width:600px;height:auto;">
 </p>
 If you do not get a version message, install it by 
 with your systems installers: 
