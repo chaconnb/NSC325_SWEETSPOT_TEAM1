@@ -1,5 +1,9 @@
 # NSC325_GROUP1
 
+## Our Final Model
+
+Our best model can be found under src/nsc325_group1/models/rf_spatial.ipynb
+
 ## Contents
 
 
